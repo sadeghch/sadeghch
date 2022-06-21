@@ -1,5 +1,5 @@
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=23&center=true&vCenter=true&lines=Hello+World;I+'m+Ilyas;Passionate+Software+developer;Lifelong+Learner;Welcome+to+my+profile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=red&size=43&center=true&vCenter=true&lines=Hello+World;I+'m+sadegh;frontend+developer;Lifelong+Learner;Welcome+to+my+profile)
 ---
 - 👋 Hi, I’m sadegh chenani
 - 👀 I’m interested in programming and help desk
